@@ -1,0 +1,14 @@
+D:\VisualStudioProjects\BibliotecaExamenIngreso\bin\Debug\BibliotecaExamenIngreso.exe.config
+D:\VisualStudioProjects\BibliotecaExamenIngreso\bin\Debug\BibliotecaExamenIngreso.exe
+D:\VisualStudioProjects\BibliotecaExamenIngreso\bin\Debug\BibliotecaExamenIngreso.pdb
+D:\VisualStudioProjects\BibliotecaExamenIngreso\obj\Debug\BibliotecaExamenIngreso.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\BibliotecaExamenIngreso\obj\Debug\BibliotecaExamenIngreso.Form1.resources
+D:\VisualStudioProjects\BibliotecaExamenIngreso\obj\Debug\BibliotecaExamenIngreso.FormAgregarLibroNuevo.resources
+D:\VisualStudioProjects\BibliotecaExamenIngreso\obj\Debug\BibliotecaExamenIngreso.Properties.Resources.resources
+D:\VisualStudioProjects\BibliotecaExamenIngreso\obj\Debug\BibliotecaExamenIngreso.csproj.GenerateResource.cache
+D:\VisualStudioProjects\BibliotecaExamenIngreso\obj\Debug\BibliotecaExamenIngreso.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\BibliotecaExamenIngreso\obj\Debug\BibliotecaExamenIngreso.exe
+D:\VisualStudioProjects\BibliotecaExamenIngreso\obj\Debug\BibliotecaExamenIngreso.pdb
+D:\VisualStudioProjects\BibliotecaExamenIngreso\obj\Debug\BibliotecaExamenIngreso.FormAgregarSocio.resources
+D:\VisualStudioProjects\BibliotecaExamenIngreso\obj\Debug\BibliotecaExamenIngreso.FormPrestarLibro.resources
+D:\VisualStudioProjects\BibliotecaExamenIngreso\obj\Debug\BibliotecaExamenIngreso.FormRecibirLibroPrestado.resources
